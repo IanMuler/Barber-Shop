@@ -1,0 +1,28 @@
+#galeria{
+    padding:20px 10px;
+    height: auto;
+    background: rgba(17, 17, 17, 0.842);
+}
+
+#galeria .contenedor{
+    position: relative;
+    overflow: hidden;
+    display:flex; 
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.gallerytop h3{
+    color: white;
+}
+
+.gallerybottom{
+    display: flex;
+    flex-wrap: wrap;
+}
+.gallerybottom img{
+    margin: 5px auto;
+    width: 100%;
+    height: auto;
+}

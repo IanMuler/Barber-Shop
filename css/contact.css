@@ -1,0 +1,33 @@
+#contacto{
+    padding: 20px 10px;
+    display: block;
+}
+
+#contacto span{
+    font-size: 50px;
+}
+
+#contacto p{
+    margin: 0px;
+    padding-right: 0px;
+}
+.contact1, .contact2, .contact3{
+    display: flex;
+    justify-content: space-between;
+}
+
+.contactleft{
+    text-align: center;
+    width: 120px;
+}
+
+.contactright{
+    display: flex;
+    text-align: right;
+    align-items: center;
+}
+
+.contact3 .contactright{
+    display: block;
+    margin: auto 0px;
+}

@@ -1,0 +1,129 @@
+#nosotros {
+    padding: 40px 10px;
+    height: auto;
+}
+
+#nosotros .contenedor {
+    position: relative;
+    height: auto;
+    text-align: center;
+    overflow: hidden;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.abouttop {
+    padding: 0px 10px;
+}
+
+.contenedor h3,
+h4 {
+    margin: auto;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 2px;
+
+}
+
+.contenedor h3 {
+    font-size: 30px;
+    margin: auto;
+    display: inline-block;
+
+}
+
+.linesh3 {
+    position: relative;
+    margin: 20px 0px;
+    padding: 3px 0px;
+}
+
+.linetoph3 {
+    position: absolute;
+    top: 0;
+    right: 50%;
+    display: block;
+    float: left;
+    width: 100px;
+    height: 1px;
+    border: 1px solid #5ec05d;
+    margin-bottom: 10px;
+}
+
+.linebottomh3 {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+
+    display: block;
+    float: right;
+    width: 100px;
+    height: 1px;
+    border: 1px solid #5ec05d;
+}
+
+
+.abouttop p {
+    margin: auto;
+    line-height: 30px;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 30px;
+    width: 90%;
+    font-weight: 500;
+    font-size: 16px;
+    text-transform: uppercase;
+    line-height: 35px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+
+.aboutleft {
+    padding: 10px auto;
+}
+
+.aboutleft img {
+    width: 290px;
+    height: 210px;
+}
+
+.aboutright {
+    padding: 0px 10px;
+    margin: 20px 0px;
+    text-align: left;
+}
+
+.contenedor h4 {
+    text-align: left;
+    font-size: 20px;
+    text-transform: capitalize;
+    color: #cc4141;
+    font-style: italic;
+}
+
+.linesh4 {
+    position: relative;
+    margin: 20px 0px;
+    padding: 3px 0px;
+}
+
+.linebottomh4 {
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+
+    width: 60px;
+    border: 1px ridge black;
+}
+
+.aboutright p {
+    font-size: 14px;
+    line-height: 30px;
+    margin-bottom: 20px;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+
+
+}
