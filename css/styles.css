@@ -204,11 +204,12 @@ header {
 header p {
     margin: auto;
     font-size: 14px;
-    line-height: 30px;
-    font-family: 'Montserrat', sans-serif;
-    margin-bottom: 30px;
-    width: 90%;
-    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 1px;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-bottom: 60px;
+    width: auto;
+
 }
 
 
