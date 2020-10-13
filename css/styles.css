@@ -31,7 +31,8 @@ header {
 .banneroverlay{
     
     height: auto;
-    background: rgba(0, 0, 0, 0.6);
+    background: url(https://demo.w3layouts.com/demos_new/template_demo/07-07-2017/salon-demo_Free/1498725279/web/images/dott.png)repeat 0px 0px;
+    background-size: 2px;
 }
 
 
