@@ -7,13 +7,11 @@
 #galeria .contenedor{
     position: relative;
     overflow: hidden;
-    display:flex; 
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: center;
 }
 
-
+.linesh3{
+    text-align: center;
+}
 
 .gallerybottom{
     display: flex;
@@ -23,5 +21,4 @@
     margin: 5px auto;
     max-width: 400px;
     height: auto;
-    
 }

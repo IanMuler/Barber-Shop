@@ -1,6 +1,5 @@
 #contacto{
     padding: 20px 10px;
-    display: block;
     text-align: center;
 }
 
@@ -14,8 +13,10 @@
     padding-right: 0px;
 }
 .contact1, .contact2, .contact3{
+    
+    margin: 50px;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 .contactleft{
@@ -24,9 +25,9 @@
 }
 
 .contactright{
-    display: flex;
-    text-align: right;
-    align-items: center;
+    width: 400px;
+    display: block;
+    margin: auto 0px;
 }
 
 .contact3 .contactright{
